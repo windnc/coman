@@ -1,0 +1,7 @@
+1. sqlite3 + php
+	apt-get install php5-cli php5-dev
+	apt-get install libsqlite3-0 libsqlite3-dev php5-sqlite
+	apachectrl restart
+	
+
+
